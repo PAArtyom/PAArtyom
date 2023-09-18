@@ -4,8 +4,10 @@
 <div id="badges" align="center">
   <a href="https://t.me/sic_pt2">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/acheheart">
   <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
-    
+  </a>
   </a>
 </div>
 
