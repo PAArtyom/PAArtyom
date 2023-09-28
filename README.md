@@ -8,6 +8,8 @@
   <a href="https://www.kaggle.com/acheheart">
   <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
   </a>
+  <div align='center'>
+<img src="https://komarev.com/ghpvc/?username=PAArtyom&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
